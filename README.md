@@ -1,10 +1,12 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-# ➤ Algorithm Skills [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki)
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center"># Algorithm Skills</h1>
 
-Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다. 
-
-저희 프로젝트가 맘에 드셨다면 <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">별을 붙여주세요 🤩</a>
-
+<p align="center">
+	Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다. 
+	<br />
+	저희 프로젝트가 맘에 드셨다면 <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">별을 붙여주세요 🤩</a>
+	<br />
+	<br />
+</p>
 <p align="center">
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Algorithm Skills Demo" width="800" />
@@ -19,7 +21,7 @@ Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니�
 
 ## ➤ Table of Contents
 
-* [➤ 자주하는 질문](#--)
+* [➤ FAQ](#-faq)
 	* [Algorithm Skills가 뭔가요?](#algorithm-skills-)
 	* [이 페이지에 나와있는 알고리즘의 선정 기준은 무엇인가요?](#------)
 	* [이 프로젝트에 도움을 주려면 어떻게 하나요?](#-----)
@@ -47,12 +49,13 @@ Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니�
 * [➤ 코딩테스트대비문제](#--3)
 	* [스택](#-9)
 * [➤ Contributors](#-contributors)
+* [➤ License](#-license)
 </details>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
 
-## ➤ 자주하는 질문
+## ➤ FAQ
 
 ### Algorithm Skills가 뭔가요?
 Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다.
@@ -175,3 +178,10 @@ Learn what accessibility is and why it is important.
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [bebusl](https://github.com/bebusl)              | [ZScomnet](https://github.com/ZScomnet)          | [dungbik](https://github.com/dungbik)            |
 | 🌴                                               | 🔥                                               | 📖                                               |
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+
+## ➤ License
+	
+Licensed under [MIT](https://opensource.org/licenses/MIT).
