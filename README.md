@@ -1,6 +1,10 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Algorithm Skills</h1>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#github-licensehttpsimgshieldsiobadgelicense-mit-bluesvghttpsgithubcomcbnu-communityalgorithm_skillsblobmasterlicensemd-prs-welcomehttpsimgshieldsiobadgeprs-welcome-brightgreensvghttpsgithubcomcbnu-communityalgorithm_skillswiki)
+
+# ➤ [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki)
 <p align="center">
-	Algorithm Skills is a visual overview of useful algorithm skills to learn. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	Algorithm Skills is a visual overview of various algorithms. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 
 <p align="center">
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank">
@@ -16,30 +20,31 @@
 
 ## ➤ Table of Contents
 
-* [➤ FAQ](#-faq)
-	* [What is Algorithm Skills?](#what-is-algorithm-skills)
-* [➤ 기초유형](#-)
-	* [자료구조](#)
-	* [스택](#-1)
-	* [탐색](#-2)
-	* [DFS&BFS](#dfsbfs)
-	* [정렬](#-3)
-	* [버블정렬](#-4)
-* [➤ 심화유형](#--1)
-	* [트리](#-5)
-	* [LCA](#lca)
-	* [그래프](#-6)
-	* [Shortest Path](#shortest-path)
-	* [동적 계획법](#--2)
-	* [내용 1](#-1)
-	* [해시](#-7)
-	* [내용 1](#-1-1)
-	* [그리디](#-8)
-	* [내용 1](#-1-2)
-* [➤ 코딩테스트대비문제](#--3)
-	* [스택](#-9)
-* [➤ Contributors](#-contributors)
-* [➤ License](#-license)
+* [➤ [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki)](#-github-licensehttpsimgshieldsiobadgelicense-mit-bluesvghttpsgithubcomcbnu-communityalgorithm_skillsblobmasterlicensemd-prs-welcomehttpsimgshieldsiobadgeprs-welcome-brightgreensvghttpsgithubcomcbnu-communityalgorithm_skillswiki)
+	* [➤ FAQ](#-faq)
+		* [What is Algorithm Skills?](#what-is-algorithm-skills)
+	* [➤ 기초유형](#-)
+		* [자료구조](#)
+		* [스택](#-1)
+		* [탐색](#-2)
+		* [DFS&BFS](#dfsbfs)
+		* [정렬](#-3)
+		* [버블정렬](#-4)
+	* [➤ 심화유형](#--1)
+		* [트리](#-5)
+		* [LCA](#lca)
+		* [그래프](#-6)
+		* [Shortest Path](#shortest-path)
+		* [동적 계획법](#--2)
+		* [내용 1](#-1)
+		* [해시](#-7)
+		* [내용 1](#-1-1)
+		* [그리디](#-8)
+		* [내용 1](#-1-2)
+	* [➤ 코딩테스트대비문제](#--3)
+		* [스택](#-9)
+	* [➤ Contributors](#-contributors)
+	* [➤ License](#-license)
 </details>
 
 

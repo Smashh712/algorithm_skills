@@ -144,8 +144,9 @@ const collectionsMarkdown = generateCollectionsMarkdown(collections);
 
 // Create the blueprint file.
 writeFileSync(FILE_NAME, `<h1 align="center">Algorithm Skills</h1>
+# [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki)
 <p align="center">
-	Algorithm Skills is a visual overview of useful algorithm skills to learn. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	Algorithm Skills is a visual overview of various algorithms. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 
 <p align="center">
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank">
