@@ -1,12 +1,14 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center"># Algorithm Skills</h1>
-
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+<h1 align="center">algorithm-skills</h1>
+{{ template:badges }}
 <p align="center">
-	Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다. 
-	<br />
-	저희 프로젝트가 맘에 드셨다면 <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">별을 붙여주세요 🤩</a>
-	<br />
-	<br />
+  <b>Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다.</b></br>
+  <sub><sub>
 </p>
+
+<br />
+
+
 <p align="center">
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Algorithm Skills Demo" width="800" />
