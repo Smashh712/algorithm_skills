@@ -1,7 +1,10 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1>Algorithm Skills # [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki) </h1>
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+<h1 align="center">Algorithm Skills</h1>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]
+
+# [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cbnu-community/algorithm_skills/wiki)
 <p align="center">
 	Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다. 
-	<br />
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a>
 	<br />
 	저희 프로젝트가 맘에 드셨다면 <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">별을 붙여주세요 🤩</a>
