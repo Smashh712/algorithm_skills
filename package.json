@@ -1,5 +1,5 @@
 {
-	"name": "web-skills",
+	"name": "algorithm-skills",
 	"description": "A visual overview of useful skills to learn as a web developer",
 	"type": "module",
 	"license": "MIT",
@@ -13,25 +13,10 @@
 		"url": "git+https://github.com/andreasbm/web-skills.git"
 	},
 	"keywords": [
-		"web",
-		"skills",
+		"data-structure",
 		"learn",
 		"overview",
-		"links",
-		"html",
-		"css",
-		"javascript",
-		"accessibility",
-		"web components",
-		"pwa",
-		"build tools",
-		"frameworks",
-		"testing",
-		"architecture",
-		"design",
-		"ux",
-		"algorithms",
-		"backend"
+		"algorithms"
 	],
 	"scripts": {
 		"serve": "npx servor . index.html 1614 --browse",
@@ -45,17 +30,28 @@
 	},
 	"contributors": [
 		{
-			"name": "Andreas Mehlsen",
-			"url": "https://twitter.com/andreasmehlsen",
-			"img": "https://avatars1.githubusercontent.com/u/6267397?s=460&v=4",
+			"name": "bebusl",
+			"url": "https://github.com/bebusl",
+			"img": "https://joeschmoe.io/api/v1/random",
 			"info": [
 				"🔥"
 			]
 		},
 		{
-			"name": "You?",
+			"name": "ZScomnet",
+			"url": "https://github.com/ZScomnet",
 			"img": "https://joeschmoe.io/api/v1/random",
-			"url": "https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md"
+			"info": [
+				"🔥"
+			]
+		},
+		{
+			"name": "dungbik",
+			"url": "https://github.com/dungbik",
+			"img": "https://joeschmoe.io/api/v1/random",
+			"info": [
+				"🔥"
+			]
 		}
 	],
 	"dependencies": {
