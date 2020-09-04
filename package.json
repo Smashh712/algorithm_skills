@@ -1,6 +1,6 @@
 {
 	"name": "algorithm-skills",
-	"description": "A visual overview of useful skills to learn as a web developer",
+	"description": "Algorithm Skills는 알고리즘 개요를 시각적으로 표현한 것입니다.",
 	"type": "module",
 	"license": "MIT",
 	"author": "Andreas Mehlsen",
@@ -63,5 +63,18 @@
 	"devDependencies": {
 		"servor": "^3.2.0",
 		"snowpack": "^1.6.0"
-	}
+	},
+	"title": "Algorithm Skills",
+	"badges": [
+		{
+		  	"description": "GitHub license",
+		  	"href": "https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md",
+		  	"url": "https://img.shields.io/badge/license-MIT-blue.svg",
+		},
+		{
+			"description": "PRs Welcome",
+			"href": "https://github.com/cbnu-community/algorithm_skills/wiki",
+			"url": "https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
+		}
+	  ]
 }
