@@ -1,4 +1,4 @@
-<h1 align="center">Web Skills</h1>
+<h1 align="center">Algorithm Skills</h1>
 <p align="center">
 	Algorithm Skills is a visual overview of useful algorithm skills to learn. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 

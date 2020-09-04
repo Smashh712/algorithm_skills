@@ -1,4 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Web Skills</h1>
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Algorithm Skills</h1>
 <p align="center">
 	Algorithm Skills is a visual overview of useful algorithm skills to learn. Go to <a href="https://github.com/cbnu-community/algorithm_skills" target="_blank" aria-label="Link to Algorithm Skills">https://github.com/cbnu-community/algorithm_skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/cbnu-community/algorithm_skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 
@@ -150,7 +150,7 @@ Learn what accessibility is and why it is important.
 ## ➤ Contributors
 	
 
-| [<img alt="bebusl" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/bebusl) | [<img alt="ZScomnet" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/ZScomnet) | [<img alt="dungbik" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/dungbik) |
+| [<img alt="bebusl" src="https://data.ac-illust.com/data/thumbnails/a7/a74afdc890960a2341644e16b36e9f35_t.jpeg" width="100">](https://github.com/bebusl) | [<img alt="ZScomnet" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/ZScomnet) | [<img alt="dungbik" src="https://www.moomin.co.kr/wp-content/uploads/2016/03/moomintroll_sc.png" width="100">](https://github.com/dungbik) |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [bebusl](https://github.com/bebusl)              | [ZScomnet](https://github.com/ZScomnet)          | [dungbik](https://github.com/dungbik)            |
 | 🔥                                               | 🔥                                               | 🔥                                               |
