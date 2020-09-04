@@ -150,10 +150,10 @@ Learn what accessibility is and why it is important.
 ## ➤ Contributors
 	
 
-| [<img alt="bebusl" src="https://data.ac-illust.com/data/thumbnails/a7/a74afdc890960a2341644e16b36e9f35_t.jpeg" width="100">](https://github.com/bebusl) | [<img alt="ZScomnet" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/ZScomnet) | [<img alt="dungbik" src="https://www.moomin.co.kr/wp-content/uploads/2016/03/moomintroll_sc.png" width="100">](https://github.com/dungbik) |
+| [<img alt="bebusl" src="https://data.ac-illust.com/data/thumbnails/a7/a74afdc890960a2341644e16b36e9f35_t.jpeg" width="100">](https://github.com/bebusl) | [<img alt="ZScomnet" src="https://avatars1.githubusercontent.com/u/48237348?s=460&v=4" width="100">](https://github.com/ZScomnet) | [<img alt="dungbik" src="https://avatars2.githubusercontent.com/u/49610681?s=460&u=c796432dbdd2e4d3a6e26c211a668c457f4e1fe0&v=4" width="100">](https://github.com/dungbik) |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [bebusl](https://github.com/bebusl)              | [ZScomnet](https://github.com/ZScomnet)          | [dungbik](https://github.com/dungbik)            |
-| 🔥                                               | 🔥                                               | 🔥                                               |
+| 🌴                                               | 🔥                                               | 📖                                               |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
