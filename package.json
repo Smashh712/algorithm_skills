@@ -69,7 +69,7 @@
 		{
 		  	"description": "GitHub license",
 		  	"href": "https://github.com/cbnu-community/algorithm_skills/blob/master/LICENSE.md",
-		  	"url": "https://img.shields.io/badge/license-MIT-blue.svg",
+		  	"url": "https://img.shields.io/badge/license-MIT-blue.svg"
 		},
 		{
 			"description": "PRs Welcome",
