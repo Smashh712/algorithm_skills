@@ -13,7 +13,7 @@
 
 <p align="center">
 	<a href="https://github.com/cbnu-community/algorithm_skills" target="_blank">
-		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Algorithm Skills Demo" width="800" />
+		<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDiKCH%2FbtqH2dKcm0C%2FFmahibStAnT7AC1IrUz0G0%2Fimg.gif" alt="Algorithm Skills Demo" width="800" />
 	</a>
 </p>
 <br />
